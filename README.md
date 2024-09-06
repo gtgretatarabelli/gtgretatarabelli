@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greta Tarabelli</h1>
+<img src="https://github.com/gtgretatarabelli/gtgretatarabelli/blob/main/Colorful%20Web%20Development%20Online%20Course%20Instagram%20Post.png?raw=true">
 <h3 align="center">Tengo experiencia trabajando con tecnologías como JavaScript, TypeScript y frameworks como React, Next.js, Express y Node.js. Mi enfoque está en el front-end, donde me apasiona crear aplicaciones web con interfaces de usuario modernas, atractivas y funcionales, utilizando herramientas como CSS, Tailwind CSS y otros frameworks de diseño. También cuento con experiencia en bases de datos SQL, y he trabajado con PostgreSQL para integrar eficientemente los datos en las aplicaciones. Me encanta colaborar en equipo, destacándome por mi organización, empatía y adaptabilidad. Siempre estoy abierto a nuevas oportunidades para mejorar y seguir aprendiendo. 🌱 📩 Contáctame: [gretatarabelli9@gmail.com] para que podamos colaborar en proyectos emocionantes 🚀.</h3>
 
 - 🌱 Actualmente estoy aprendiendo en **Henry**
